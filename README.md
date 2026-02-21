@@ -15,3 +15,6 @@ SmartElectrical Helper is a Flutter-based mobile application that provides essen
 ## Description
 This application implements real-time mathematical calculations with input validation and state management using Flutter’s Material components. 
 It is designed as a simple and user-friendly engineering utility tool.
+
+![App Screenshot](image.png)
+![App Screenshot](image1.png)
